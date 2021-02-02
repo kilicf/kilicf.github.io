@@ -12,7 +12,7 @@ body{
   height: 50px;
   margin: 5px;
   font-size: 20px;
-  font-family: calibri,arial,verdana;
+  font-family: icalibri,arial,verdana;
   line-height: 50px;
   float: right;
 }
@@ -46,18 +46,15 @@ body{
 }
 
 .center {
-    display: block;
     margin-left: 350px;
     margin-right: auto;
     margin-top: 250px;
-    width: auto;
   }
   .center2 {
-    display: block;
     margin-left: 900px;
     margin-right: auto;
     margin-top: -250px;
-    width: auto;
+    
   }
 
   #about{
@@ -67,5 +64,4 @@ body{
     }
     a:visited {
       color:yellow ;
-    
   }    

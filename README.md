@@ -10,6 +10,6 @@ I am **FURKAN KILIC** I'm a programming student in [Hack Your Future](https://gi
 - 🔭 I’m currently working as **Freelance**
 - 🌱 I’m currently learning **Python - HTML/CSS**
 - 📫 How to reach me:
-  **[Twitter](https://twitter.com/phantomoperaa), [Instagram](https://www.instagram.com/phantomoftheoopera/)**
+  **[Twitter](https://twitter.com/phantomoperaa), [Instagram](https://www.instagram.com/phantomoftheoopera/)**, [Slack](https://hackyourfuturebe.slack.com/archives/D01J2T2UTGW)
 
 ![Furkan's github stats](https://github-readme-stats.vercel.app/api?username=kilicf&show_icons=true&hide_border=true&theme=dark)

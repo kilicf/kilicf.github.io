@@ -5,6 +5,10 @@
 
 I am **FURKAN KILIC** I'm a programming student in [Hack Your Future](https://github.com/HackYourFutureBelgium/class-13-14). I'm from **Turkey**. I'm interested in **Python** and **graphic design**. I'm Dutch student 🤓
 
+In this site, I plan to make a blog of the school process in general.
+
+You will also see lesson notes and interesting information about web design .
+
 ---
 
 - 🔭 I’m currently working as **Freelance**
